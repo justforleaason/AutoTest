@@ -1,0 +1,18 @@
+{
+  "name": "udu1",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "arrayUtilsTest": "jest array_utils.tests.js",
+    "stringOperationsTest": "jest string_operations.test.js",
+    "groupedTest": "jest grouped.test.js",
+    "groupedTest9": "9.test.js"
+  },
+	"jest": {
+    "moduleFileExtensions": ["js", "json", "jsx", "node", "mjs", "cjs"]
+  },
+  "dependencies": {
+    "jest": "^27.2.0"
+  },
+  "devDependencies": {}
+}
